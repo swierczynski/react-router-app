@@ -1,0 +1,15 @@
+.products h2 {
+    margin-bottom: 30px;
+}
+
+.products ul {
+    list-style: none;
+}
+
+.products a {
+    text-decoration: none;
+    text-transform: uppercase;
+    display: block;
+    padding: 10px;
+    margin: 20px;
+}
