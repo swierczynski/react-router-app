@@ -3,7 +3,6 @@ import {Link} from 'react-router-dom'
 import Product from '../components/Product'
 
 const ProductPage = (props) => {
-    console.log(props);
     return ( 
         <>
             <h2>Strona produktu</h2>
